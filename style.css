@@ -1,13 +1,18 @@
 p {
     color: cornflowerblue;
     font-family: Arial, Helvetica, sans-serif;
+    background-color:black;
+    text-align: center;
 }
 
 body {
-    background-color:black;
+    
+    background-image: url('site-bg-1.png.png');
 }
 
 h1 {
     color: plum;
     font-family: 'Courier New', Courier, monospace;
+    background-color:black;
+    text-align: center;
 }
