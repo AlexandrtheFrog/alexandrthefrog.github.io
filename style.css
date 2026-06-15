@@ -3,11 +3,17 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     background-color:black;
     text-align: center;
+    margin: none;
 }
 
 body {
     
     background-image: url('site-bg-1.png.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
 }
 
 h1 {
@@ -15,4 +21,5 @@ h1 {
     font-family: 'Courier New', Courier, monospace;
     background-color:black;
     text-align: center;
+    margin: none;
 }
